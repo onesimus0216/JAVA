@@ -1,2 +1,2 @@
 # JAVA
-JAVA 예제
+JAVA예제
